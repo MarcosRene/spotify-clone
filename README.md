@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="Repository size" src="https://img.shields.io/github/repo-size/MarcosRene/via-cep-reactjs">
+   <img alt="Repository size" src="https://img.shields.io/github/repo-size/MarcosRene/clone-spotify">
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <img alt="Types" src="https://img.shields.io/npm/types/typescript">
    <img src="https://img.shields.io/badge/react-Reactjs-blue">
