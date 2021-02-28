@@ -8,6 +8,10 @@
 ### :computer: Descrição
 Clone feito com reactjs da home do spotify web play.
 
+<p align="center">
+   <img src="https://ibb.co/P1NRv1T" alt="Clone Spotify" border="0" width="720" />
+</p>
+
 ### :hammer: Tecnologia Utilizada
 * [Reactjs][reactjs]
 
